@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix Remix Remix Remix Remix Remix Remix Naruto Shinobi 3D Battle",
+  "description": "Experience an action-packed 3D fighting game featuring iconic Naruto Shippuden characters and intense ninja combat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
